@@ -1,0 +1,20 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# Environment & Config
+python-dotenv
+
+# LLM & Vector DB (Now with Google)
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+
+# Document Loaders
+pypdf
+python-docx
+
+# Database & Auth
+supabase
+psycopg2-binary
